@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    overflow-x: hidden;
+}
+
+.bg-color{
+    background-color: rgb(154, 202, 41);
+    width: 340px;
+    height: 500px;
+    z-index: -1;
+    position: absolute;
+    left: 800px;
+    top:0px;
+}
+.nav{
+    display: flex;
+    margin: 20px 20px 30px 58px;
+    padding: 20px 20px 20px 40px;
+}
+
+li{
+    padding: 40px;
+    list-style: none;
+}
+
+.nav li a{
+    
+    text-decoration: none;
+    color: black;
+}
+
+.container{
+    display: flex;
+}
+
+#intro{
+    margin-bottom: 60px;
+}
+
+.left-side{
+    margin: 40px;
+    width: 30%;
+    padding: 20px;
+}
+.big-text{
+    padding: 10px;
+    font-size: 50px;  
+}
+
+.small-text{
+    padding: 10px;
+    font-size: 17px;
+    width: 100%;
+}
+
+.btn{
+    color: white;
+    background-color: rgb(154, 202, 41);
+    width: 120px;
+    height: 47px;
+    box-shadow: 30px;
+    border: 1px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.profile{
+    position: relative;
+    left: 350px;
+    width: 362px;
+    height: 394px;
+}
+
+
+.bg{
+    z-index: -1;
+}
+.txt1{
+    position: relative;
+    font-size: 90px;
+    bottom: 250px;
+    left: 125px;
+}
+#intro-2{
+    height: 350px;
+}
+.left-side2{
+    margin: 0;
+    padding: 0;
+}
+.right-side2{
+    margin-top: 33px;
+    width: 32%;
+}
+
+.txt1{
+    width: 20%;
+}
+
+.txt2{
+    color: rgb(154, 202, 41);
+    font-weight: 1000;
+    margin: 10px;
+}
+.p1{
+    font-weight: bold;
+    margin: 10px;
+}
+.p2{
+    margin: 10px;
+}
+.h1{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.p3{
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+
+.box{
+    width: 25px;
+    height: 44px;
+    background-color: rgb(154, 202, 41);
+    z-index: 1;
+    position: relative;
+    top: 35px;
+    left: 10px;
+}
+
+.work{
+    width: min-content;
+}
+
+#work{
+    margin: 40px;
+}
+
+.row-1{
+    display: flex;
+}
+
+.col-4{
+    margin: 40px 30px 20px 160px;
+}
+.col-4 h1{
+    font-size:1.3em ;
+    margin: 10px;
+}
+.col-4 p{
+    width: 128%;
+    font-size: 0.9em;
+    margin: 10px;
+}
+.col-4 a{
+    text-decoration: none;
+    color: rgb(154, 202, 41);
+    margin: 10px;
+}
+.achieve-info{
+    display: flex;
+}
+
+.left-achieve{
+    margin-left: 80px;
+    font-size: 13px;
+}
+
+.left-achieve .row-1{
+    margin-bottom: 60px;
+}
+.col-2 p{
+    margin: 8px 20px 20px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c2{
+    width: 39%;
+}
+.col-2{
+    margin-left: 10px;
+}
+.col-2 .a1{
+    width: 80%;
+}
+.col-2 .a2{
+    width: 36%;
+}
+.col-2 .a3{
+    width: 80%;
+}
+.col-2 .a4{
+    width: 35%;
+}
+.col-2 .a5{
+    width: 50%;
+}
+.right-proud{
+    width: 30%;
+    height: 40%;
+    margin-right: 4px;
+    background-color: rgb(154, 202, 41);
+}
+.right-proud h1{
+    color: white;
+    font-size: 6em;
+    padding: 0 100px 0 100px;
+}
+
+.hobby{
+    display: flex;
+    margin: 100px;
+    justify-content: space-evenly;
+}
+
+.left-hobby h1{
+    font-size: 5em;
+    width: 20%;
+    margin-bottom: 20px;
+    color: rgb(154, 202, 41);
+}
+
+.left-hobby{
+   margin-right: 25%;
+   width: 40%;
+}
+.right-hobby{
+    display: flex;
+}
+
+.contact{
+    display: flex;
+}
+.right-contact{
+    width: 30%;
+    height: 10%;
+    background-color: rgb(154, 202, 41);
+    padding: 40px;
+}
+.right-contact img{
+    width: 20px;
+    height: 20px;
+    padding: 10px 0 10px 0;
+}
+.right-contact h1{
+    font-size: 4em;
+    color: white;
+}
+.right-contact a{
+    color: white;
+}
+.all-right{
+    width: 10%;
+    height: 35px;
+    position: relative;
+    bottom: -170px;
+    left: 47.6%;
+}
+.line{
+    position: relative;
+    width: 35px;
+    height: 4px;
+    background-color: rgb(154, 202, 41);
+    left: 21px;
+}
