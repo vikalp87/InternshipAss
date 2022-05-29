@@ -1,0 +1,402 @@
+@media only screen and (max-width:1160px)
+{
+    .nav{
+    margin: 20px 0px 50px 81px;
+    padding: 10px 9px 13px 2px;
+     }
+    li {
+        padding: 28px;
+        list-style: none;
+    }
+    .bg-color{
+        left: 676px;
+    }
+    .profile{
+        left:282px;
+        width: 342px;
+    height: 400px;
+    }
+    .right-side2 {
+        margin-top: 22px;}
+    .left-side2{
+        width: 46%;
+    }
+    .col-4 {
+        margin: 40px 30px 20px 145px;
+    }
+   .left-achieve{
+       font-size: 11px;
+   }
+   .col-2 .a2 {
+    width: 35%;
+}
+.right-proud h1 {
+    color: white;
+    font-size: 5em;
+    padding: 0 100px 0 54px;
+}
+.all-right {
+    width: 20%;
+    height: 35px;
+    position: relative;
+    bottom: -171px;
+    left: 40%;}
+
+.left-hobby {
+    margin-right: 28%;
+}
+.col-img1 img{
+    width: 300px;
+    height: 350px;
+}
+.col-img2 img{
+    width: 250px;
+    height: 250px;
+}
+.left-hobby p{
+   width: 147%;
+}
+.left-hobby h1{
+    font-size: 4em;
+}
+}
+@media only screen and (max-width:1080px){
+    li {
+        padding: 20px;
+        list-style: none;
+    }
+    .bg-color {
+        left: 604px;
+    }
+    .nav{
+        margin: 20px 0px 50px 81px;
+    
+    }
+    .profile {
+        left: 225px;
+        width: 332px;
+        height: 390px;
+ 
+}
+.big-text {
+    padding: 6px;
+    font-size: 35px;
+}
+.small-text {
+    padding: 8px;
+    font-size: 15px;
+    width: 100%;
+}
+.col-4 {
+    margin: 40px 30px 20px 112px;
+}
+.left-achieve .row-1 {
+    margin-bottom: 67px;
+}
+.left-hobby {
+    margin-right: 38%;
+    margin-top: 12%;
+}
+.col-img1 img{
+    width: 260px;
+    height: 300px;
+}
+.col-img2 img{
+    width: 210px;
+    height: 210px;
+}
+.left-hobby h1 {
+    font-size: 3em;
+}
+.left-hobby p {
+    width: 135%;
+    font-size: 11px;
+}
+.txt1 {
+    position: relative;
+    font-size: 81px;
+    bottom: 256px;
+    left: 125px;
+}
+}
+@media only screen and (max-width:768px)
+{
+    li {
+        padding: 13px;
+        list-style: none;
+    }
+    .bg-color {
+        left: 498px;
+        width: 273px;
+    }
+    .nav li a{
+        font-size: 14px;
+        color: black;
+    }
+    .profile {
+        left: 207px;
+        width: 295px;
+        height: 417px;
+    }
+    .big-text {
+        padding: 6px;
+        font-size: 25px;
+    }
+    .small-text {
+        padding: 4px;
+        font-size: 13px;
+        width: 126%;
+    }
+    .txt1 {
+        position: relative;
+        font-size: 84px;
+        bottom: 256px;
+        left: 125px;
+    }
+    .right-side2 {
+        margin-top: -20px;
+        margin-left: 125px;
+
+        margin-top: 3px;
+        width: 52%;
+    }
+    .h1 {
+        font-size: 44px;
+        text-align: center;
+        margin-bottom: 40px;
+        margin-left: 127px;
+    }
+    .p3 {
+        text-align: center;
+        width: 92%;
+        margin-left: 105px;
+    }
+    .col-4 {
+        margin: 40px 30px 20px 84px;
+    }
+    .right-proud h1 {
+        color: white;
+        font-size: 4em;
+        padding: 0 100px 0 54px;
+    }
+    .right-proud {
+        width: 35%;
+        height: 25%;
+        background-color: rgb(154, 202, 41);
+        position: relative;
+        left: 140px;
+    }
+    .col-2 .a1 {
+        width: 124%;
+    }
+    .col-2 .a2 {
+        width: 100%;
+    }
+    .col-2 .a3 {
+        width: 101%;
+    }
+    .col-2 .a4 {
+        width: 101%;
+    }
+    .vikalp{
+        margin-left: -20px;
+    }
+    .jain{
+        margin-left: 41px;
+    }
+    .c8{
+        position: relative;
+        right: 58px;
+
+    }
+    .all-right {
+    
+        left: 52%;
+    }
+    .right-hobby {
+        
+        position: relative;
+        left: 165px;
+    }
+    .left-hobby {
+        margin-right: 13%;
+        margin-top: 19%;
+    }
+    .left-hobby p {
+        width: 175%;
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width:426px)
+{
+    .profile {
+        left: 242px;
+        width: 287px;
+        height: 409px;
+    }
+    li {
+        padding: 18px;
+        list-style: none;
+    }
+    .nav li a {
+        font-size: 11px;
+        color: black;
+        
+    }
+    .jain {
+        margin-left: -42px;
+    }
+    .nav {
+        margin: 20px 0px 50px 78px;
+    }
+    .bg-color {
+        left: 478px;
+        width: 260px;
+    }
+
+    .big-text {
+        padding: 3px;
+        font-size: 14px;
+    }
+    .h1 {
+        font-size: 34px;
+        margin-bottom: 40px;
+        position: relative;
+        left: 8rem;
+    }
+    .col-4 {
+        margin: 40px 30px 20px 56px;
+    }
+    .col-2 .a1 {
+        width: 10rem;
+    }
+    .col-2 .a2 {
+        width: 11rem;
+    }
+    .col-2 .a4 {
+        width: 13rem;
+    }
+
+    .col-2 .a3 {
+        width: 11rem;
+    }
+    .right-proud {
+        width: 54%;
+        height: 242px;
+        background-color: rgb(154, 202, 41);
+        position: relative;
+        left: 57px;
+    }
+    .p3 {
+        text-align: center;
+        width: 40rem;
+        margin-left: 62px;
+    }
+    .right-contact {
+        width: 61%;
+    }
+    .small-text {
+        padding: 4px;
+        font-size: 8px;
+        width: 185%;
+    }
+    .btn{
+        width:102px;
+        height: 32px;
+    }
+    .school-info{
+        width: 28rem;
+        position: relative;
+        right: 2rem;
+    }
+    .left-side2 {
+        width: 79%;
+    }
+    .c8 {
+        position: relative;
+        right: 93px;
+    }
+    
+    .txt1 {
+        position: relative;
+        font-size: 71px;
+        bottom: 187px;
+        left: 77px;
+    }
+    .bg{
+        width:254px;
+    }
+    .right-proud h1 {
+        font-size: 2.5em;
+        margin-top: 2rem;
+        margin-left: -2rem;
+        
+    }
+    .all-right {
+        left: 78%;
+        width: 43%;
+    }
+    .left-hobby {
+        margin-left: 16rem;
+        margin-top: 6rem;
+    }
+    .right-hobby {
+        position: relative;
+        left: 178px;
+    }
+    .left-hobby p {
+        width: 15rem;
+        font-size: 14px;
+    }
+    .col-img1 img {
+        width: 200px;
+        height: 236px;
+    }
+    .col-img2 img {
+        width: 191px;
+        height: 184px;
+    }
+    .right-hobby {
+        position: relative;
+        left: 254px;
+    }
+    .left-hobby {
+        margin-left: 10rem;
+        margin-top: 6rem;
+
+    }
+    .all-right{
+        font-size: 12px;
+    }
+}
+
+
+@media only screen and (min-width:1440px){
+    li {
+        padding: 50px;
+        list-style: none;
+    }
+    .bg-color{
+        left: 888px;
+    }
+    .col-4 {
+        margin: 40px 30px 20px 207px;
+    }
+    .profile {
+        position: relative;
+        left: 436px;
+        width: 382px;
+        height: 394px;
+    }
+    .jain {
+        margin-left: 37px;
+    }
+    .left-hobby {
+        margin-right: 32%;
+        margin-top: 8rem;
+    margin-left: 4rem;
+    }
+    .all-right p{
+        font-size: 18px;
+    }
+}
